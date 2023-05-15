@@ -1,0 +1,14 @@
+Description:
+
+Alex's Mad Libs Game is a Python program that generates a random story based on user inputs. The user is prompted to enter different words such as adjectives, verbs, colors, animals, numbers, names, genders, foods, countries, and emotions, and the program generates a story using these inputs. There are three different stories to choose from, and the program selects one randomly.
+
+Summary:
+
+The program begins by importing the 'random' module and generating a random number between 1 and 3 to select one of the three different stories. Then the program prompts the user to input various words. Once all the inputs are taken, the program selects the story based on the gender of the main character and the random number generated. Then the program replaces certain words in the story with the user inputs, and displays the final story.
+
+Instructions:
+
+Run the program.
+The program will ask for the user inputs. Enter an adjective, verb, color, animal, number, name, gender, food, country, and emotion when prompted.
+The program will generate a random story using the user inputs.
+Read the story displayed on the screen.
